@@ -60,5 +60,5 @@ npm run dev
 
 ### Author
 ```plain text
-Divyansh Sandhu
+Shambudu Rajesh Kumar
 ```
