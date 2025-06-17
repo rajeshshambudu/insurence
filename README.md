@@ -30,7 +30,8 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/divsandhu/decentralized-insurance-platform.git
+
+git clone https://github.com/rajeshshambudu/insurence.git
 cd decentralized-insurance-platform
 ```
 ### 2.Install Dependencies
